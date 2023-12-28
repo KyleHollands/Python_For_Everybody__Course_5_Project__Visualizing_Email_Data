@@ -1,1 +1,1 @@
-# Python_For_Everybody__Course_5_Project__Visualizing_Email_Data
+# Two visualizations of the email data retrieved and processed: a word cloud to visualize the frequency distribution and a timeline to show how the data is changing over time.
